@@ -1,5 +1,7 @@
 # 🕵️ PWA Feature Detector
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tomayac/pwa-feature-detector.svg)](https://greenkeeper.io/)
+
 ## Description
 
 Please see the [🔬 corresponding research paper](https://ai.google/research/pubs/pub46739)
